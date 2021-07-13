@@ -4,7 +4,7 @@ Figure scripts for Jenkins et al 2021, pubmed PMID = (TBD)
 Works on Matlab R2020a
 Requires Statistics and Machine Learning Toolbox
 
-Code for Figures 5a, 5b, 5c and 5d including four tab-delimited text files of source data (edgeR differentially expressed gene output)
+Code for Figures 5a, 5b, 5c and 5d including four tab-delimited text files of source data (edgeR differentially expressed gene output) and two tab-delimited text files for CPM and RPKM data.
 
 **andre2020_plot_heatmaps.m** _(Figures 5a and 5d)_
 
