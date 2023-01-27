@@ -1,5 +1,9 @@
 # Jenkins2021
-Figure scripts for Jenkins et al 2021, pubmed PMID = (TBD)
+Figure scripts for Jenkins et al 2021, pubmed PMID = 34516781
+
+"Lung dendritic cells migrate to the spleen to prime long-lived TCF1hi memory CD8+ T cell precursors after influenza infection"
+Jenkins MM, Bachus H, Botta D, Schultz MD, Rosenberg AF, Leon B, Ballesteros-Tato A
+Sci Immunol. 2021 Sep 10;6(63):eabg6895. doi: 10.1126/sciimmunol.abg6895. Epub 2021 Sep 10.
 
 Works on Matlab R2020a
 Requires Statistics and Machine Learning Toolbox
